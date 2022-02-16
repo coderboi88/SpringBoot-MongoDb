@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Feb 11 21:58:39 IST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-017e-e99d-7c68-00000124d600 
+on database directory memory:/Users/adityajain/IdeaProjects/cricket-api/8a537b12-165c-4840-9ee9-60160f0ce1d1 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@251a69d7 
+Loaded from file:/Users/adityajain/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=17.0.2+8-86
+user.dir=/Users/adityajain/IdeaProjects/cricket-api
+os.name=Mac OS X
+os.arch=aarch64
+os.version=12.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
